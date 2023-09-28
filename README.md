@@ -83,3 +83,7 @@ Scenario 1: Show a chart with the number of upcoming events in each city.
 
 Given the user is in the events detail page, when the user clicks the button to see a chart of those events in all the cities as a comparison,  a chart with the number of upcoming events for every city will be shown to the user.
 
+**USE OF SERVERLESS FUNCTION IN THE MEET APP**
+
+-The Meet App has the capability to employ serverless functions for a multitude of purposes including event notifications, real-time data processing, user authentication, event recommendations, and scalability. Taking advantage of serverless technology allows the app to effectively manage backend operations, deliver tailored user experiences, and effortlessly adapt to varying levels of user traffic.
+
